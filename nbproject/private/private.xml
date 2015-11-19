@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/serviceman/Finder.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/serviceman/Service.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/AuthConnectionsProperties.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/ConfigCollectorStream.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/ListDataBase.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/PatchInterfaceDB.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/RelayServer.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/RelayWorker.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/ServerMain.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/relayserver/TextDataBase.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/ping/PingStats.java</file>
+            <file>file:/C:/Users/Y125070/projects/RelayServer/src/ping/TraceRoutePingConverter.java</file>
+        </group>
+    </open-files>
+</project-private>
